@@ -5,7 +5,7 @@ import {
     Image,
     Text,
     Dimensions,
-    KeyboardAvoidingView
+    KeyboardAvoidingView //untuk mengkonfigurasi keyboard saat mengisi form login
 } from 'react-native';
 import MyForm from './MyForm';
 
